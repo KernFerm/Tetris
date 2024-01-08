@@ -11,6 +11,7 @@ use the `install.bat` to install the requirements
 if you do not have pet python ,
 
 use the `pythoninstaller.bat` to install python 3.11.6
+ ( when installing python make sure to click `ADD TO PATH`)
 
 to `cd` the folder in the `directory` , 
 
