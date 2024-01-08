@@ -9,10 +9,19 @@ if you do not have pet python ,
 
 use the pythoninstaller.bat to install python 3.11.6
 
-to play Tetris 
+to cd the folder in the directory , 
 
-Run the .bat file named PlayTetris.bat
+open up command prompt 
 
+make sure the folder is unzipped and placed in a easy location for easy access
 
+aka desktop is a good place , 
 
+type cd make sure to press spacebar then drag and drop the unzipped folder into the command prompt then click enter, 
 
+to run game in same window , python tetris.py enter game will pop up 
+
+to play 
+
+use the arrow keys
+up to change the pattern of the item
