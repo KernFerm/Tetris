@@ -12,6 +12,7 @@ if you do not have pet python ,
 
 use the `pythoninstaller.bat` to install python 3.11.6
  ( when installing python make sure to click `ADD TO PATH`)
+ "if you already have python you dont need to install it"
 
 to `cd` the folder in the `directory` , 
 
