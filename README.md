@@ -32,3 +32,10 @@ to play
 
 use the arrow keys
 up to change the pattern of the item
+
+
+if you downloaded this before you are having issues with score keeping track 
+
+open up the tetris.py in pet python , change the width, height,    300, 550
+
+or you can just download the file itself and you good to go 
