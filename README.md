@@ -6,12 +6,12 @@ https://www.pygame.org/wiki/CompileWindows?parent=
    `pip install pygame` click enter)
      (you only have to do this once, with all pygames)
 
-use the `requirements install.bat` to install the requirements
+use the `requirements install.bat` has changed to .exe to install the requirements
    (you only have to do this once, with all pygames)
 
 if you do not have pet python ,
 
-use the `python3.11 installer.bat` to install python 3.11.6
+use the `python3.11 installer.bat` has changed to .exe to install python 3.11.6
  ( when installing python make sure to click `ADD TO PATH`)
  "if you already have python you dont need to install it"
  
