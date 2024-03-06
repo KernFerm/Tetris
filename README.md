@@ -1,4 +1,5 @@
-- ## there are no issues with this game , if you want to FORK it GO FORK IT!!!!
+- ##   there are no issues with this game , if you want to FORK it GO FORK IT!!!!
+- ##   make account to FORK REPO
 
 ##Tetris
 
