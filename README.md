@@ -31,7 +31,7 @@ aka desktop is a good place ,
 type `cd` make sure to press spacebar then drag and drop the `unzipped` folder into the `command prompt` then click `enter`,  
 
 
-to run game in same window , type python tetris.py enter game will pop up 
+to run game in same window , type `python tetris.py` enter game will pop up 
 
 to play 
 
