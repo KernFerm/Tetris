@@ -1,5 +1,6 @@
 - ##   there are no issues with this game , if you want to FORK it GO FORK IT!!!!
 - ##   make account to FORK REPO
+- ##   This Script is PyArmor , it will run the same , to keep the settings how they are.
 
 ##Tetris
 
