@@ -6,18 +6,9 @@
 
   - click link to read [**Instructions**](https://www.fnbubbles420.org/Instructions-On-How-To-Download-Repo)
 
-##Tetris
+## Tetris
 
-follow the guide its only few steps these are the requirements to run the game
-
-https://www.pygame.org/wiki/CompileWindows?parent=
-
-( oh if it doesnt install pygame `OPEN`up command prompt 
-   `pip install pygame` click enter)
-     (you only have to do this once, with all pygames)
-
-use the `requirements install.bat`  to install the requirements
-   (you only have to do this once, with all pygames)
+use the `requirements.bat` to install the dependencies 
 
 if you do not have pet python ,
 
