@@ -13,7 +13,7 @@ use the `requirements.bat` to install the dependencies
 if you do not have pet python ,
 
 use the `python3.11 installer.bat`  to install python 3.11.6
- ( when installing python make sure to click `ADD TO PATH`)
+ [Python 3.11.6](https://github.com/KernFerm/Py3.11.6installer)
  "if you already have python you dont need to install it"
  
 to `cd` the folder in the `directory` , 
