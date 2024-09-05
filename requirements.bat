@@ -47,8 +47,8 @@ python -m pip install --upgrade pip
 call :check_error "Failed to upgrade pip."
 
 REM Install pygame and pyarmor
-echo Installing pygame==2.4.0 and pyarmor...
-pip install pygame==2.4.0 pyarmor
+echo Installing pygame==2.6.0 and pyarmor...
+pip install pygame==2.6.0 pyarmor
 call :check_error "Failed to install one or more packages."
 
 REM Deactivate the virtual environment
