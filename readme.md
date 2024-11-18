@@ -16,6 +16,7 @@ This is a Tetris game implemented in Python using the Pygame library. It feature
 ## Prerequisites
 
 Make sure you have Python and Pygame installed.
+- use the `install_python.bat` to install python 3.11.6 required to run this repo. 
 
 ### Install Python
 Download Python from the [official Python website](https://www.python.org/) if you don’t have it installed.
