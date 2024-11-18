@@ -34,6 +34,7 @@ pip install pygame
 ```
 python tetris.py
 ```
+- use the `launcher.bat` to run the tetris.py for ease of use.
 
 ### Controls
 
@@ -74,25 +75,13 @@ python tetris.py
 
 # License
 
+## ***This project is proprietary and all rights are reserved by the author.***
+## ***Unauthorized copying, distribution, or modification of this project is strictly prohibited.***
+## ***Unless You have written permission from the Developer or the FNBUBBLES420 ORG.***
+
 
 # Credits
 
 - Developed by **`Bubbles The Dev`**.
 
 - Built using Pygame.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
