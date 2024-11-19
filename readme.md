@@ -33,7 +33,7 @@ pip install pygame
 3. Run the following command:
 
 ```
-python tetris.py
+python main.py
 ```
 - use the `launcher.bat` to run the tetris.py for ease of use.
 
