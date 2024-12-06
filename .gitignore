@@ -1,0 +1,16 @@
+# Ignore all files and folders by default
+*
+
+# Do not ignore `.gitignore` itself
+!.gitignore
+
+# Ignore MD, Batch, and Txt files
+*.md
+*.bat
+*.txt
+
+# Ignore Python files
+*.py
+
+# Ignore the "Main-Directory" folder and its contents
+Tetris-main/
